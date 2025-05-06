@@ -1,0 +1,1 @@
+This project involves analyzing a pizza sales dataset using SQL to uncover key business insights. The analysis covers metrics such as total revenue, best-selling pizzas, peak order times, and customer preferences. SQL queries were used to clean, transform, and explore the data to support data-driven decision-making in a retail food business.
